@@ -1,6 +1,6 @@
 {
     "name": "Arabic MG repository",
-    "description": "Cloudstream Arabic Plugin Repository",
+    "description": "Cloudstream Arabic MG Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/Yaser7440/arabic/main/plugins.json"
